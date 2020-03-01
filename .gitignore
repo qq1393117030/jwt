@@ -1,0 +1,21 @@
+# gitignore files, put this file under project directory
+
+.idea
+/venv
+/archive
+/lastload
+/Lib
+/Scripts
+/test_data
+/tcl
+/src
+/logs
+*.pyc
+/Include
+/pkg
+/__pycache__
+/node_modules
+/runserver0.bat
+db.sqlite3
+/log
+/package.json
